@@ -18,8 +18,11 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: url("https://media.giphy.com/media/2sfWnAc4Kie88/giphy.gif");
+	background-repeat: no-repeat;
+        background-attachment:fixed;
+	background-size: 100% 100%;
+	font: 18px/1.4 $helvetica;
   color: $blue;
 }
 
