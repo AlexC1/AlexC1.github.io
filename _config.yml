@@ -16,7 +16,7 @@ avatar: https://pbs.twimg.com/profile_images/676496806646272000/k2hLF7zz.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: alex.crittenden@challoners.org
   facebook:
   flickr:
   github: barryclark/jekyll-now
@@ -24,7 +24,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: ACWave_
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
